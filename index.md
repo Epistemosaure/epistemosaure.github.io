@@ -1,2 +1,0 @@
-# ma page principal
-bienvenu !

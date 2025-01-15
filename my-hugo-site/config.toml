@@ -1,0 +1,9 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "your-theme-name"
+
+[params]
+  description = "Welcome to my Hugo site!"
+  author = "Your Name"
+  keywords = ["Hugo", "Static Site", "Welcome"]
